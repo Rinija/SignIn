@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SignIn</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_get_gpslocation">GetGPSLocation</string>
+    <string name="title_activity_gpslocation">GPSLocation</string>
+</resources>
